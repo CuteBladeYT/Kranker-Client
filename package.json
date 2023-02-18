@@ -6,10 +6,13 @@
   "scripts": {
     "start": "electron ."
   },
-  "repository": "GITHUB_REPO",
+  "repository": "https://github.com/CuteBladeYT/Kranker-Client",
   "author": "UnitedCatdom",
   "license": "DSMS-v1.2",
   "devDependencies": {
     "electron": "^19.0.8"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
   }
 }

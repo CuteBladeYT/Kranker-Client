@@ -1,0 +1,14 @@
+{
+    "start": {
+        "fullscreen": true,
+        "maximized": false,
+        "window": [800, 600]
+    },
+    "customs": {
+        "load_scripts": true,
+        "load_styles": true
+    },
+    "client_menu": {
+        "show_keybind": "F3"
+    }
+}
